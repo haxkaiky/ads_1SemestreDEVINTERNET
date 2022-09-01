@@ -1,0 +1,15 @@
+h1 {
+    background-color: blanchedalmond;
+    color: red;
+
+    /* Deixando o Texto no Centro */
+    text-align: center;
+}
+
+p {
+    background-color: blanchedalmond;
+    color: blue;
+
+    /* Deixando o Texto no Centro */
+    text-align: center;
+}
